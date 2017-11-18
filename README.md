@@ -29,6 +29,8 @@ Ver diagrama con patrón Bridge [Diagrama UML](https://drive.google.com/open?id=
 ## Pregunta 5 (2 puntos)
 - Aplicar el patrón Flyweight.
 
+Ver diagrama con patrón Flyweight [Diagrama UML](https://drive.google.com/open?id=1LA2UnjlJ92Kz4CQJVrkv3lA1CGqold_m)
+
 ## Pregunta 6 (3 puntos)
 - Aplicar el patrón Decorator sabiendo que a un sandwich se le puede agregar cualquier combinación de: Egg, Chicken, Beef, Bacon, Turkey.
 
